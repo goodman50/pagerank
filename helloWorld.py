@@ -1,3 +1,3 @@
-myList = [apple, orange, peach]
+myList = ['apple', 'orange', 'peach']
 print('Hellow World')
 print(myList)
